@@ -33,7 +33,7 @@ def quadrillage():
             canvas.create_rectangle((i*COTE_CARRE, j*COTE_CARRE),((i+1)*COTE_CARRE, (j+1)*COTE_CARRE), outline="black")
 
 
-###########################
+############################
 # PROGRAMME PRINCIPAL
 
 racine = tk.Tk()
