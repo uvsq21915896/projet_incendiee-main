@@ -45,3 +45,5 @@ quadrillage()
 canvas.grid()
 # Boucle principale
 racine.mainloop()
+# je n'aime pas trop le pain mais ça va de soi.
+# l'informatique c'est génial
